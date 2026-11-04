@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# native build
+ios/Pods/
+ios/build/
+android/.gradle/
+android/app/build/
+android/build/
+
+# misc
+.DS_Store
+*.log
+*.jsbundle
+.env
+.env.local
+.env.*.local
